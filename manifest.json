@@ -1,0 +1,17 @@
+{
+   "app": {
+      "background": {
+         "pages": [ "html/embed.html" ],
+         "scripts": [ "js/background.js" ]
+      }
+   },
+   "description": "Get the TV experience of YouTube on Chrome",
+   "icons": {
+      "128": "img/icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsd8gKfScHOsGPfxdbUR70f8+mEUaO0BDI5x08qvWLtaUFomDyo0fiQWLlNoJ0GppHP5NSzQHJJoinrmyIk8kLOjcOQkdFeWEA/1gU1MEcvpdJG7isL1nDHFq4scCm4AwNWulGB6f090iD1wH3pE3W2erO+V7LjOr7LleuaB+ux72WoSvrJdzNCqT70xuhRnercRblANWRscyXuarpe11g5mF5GMCb8Z4uGMUe78dC7Wgc50OFPdbTeshIBVDsq6Jp4J3DE5KZHLv/4BzTl3P3cAYNOkQYHPybFht3iEe0u7QlywOpMj0iED7pFE1JJmbcIwnpIFaYieQBspvRcSf6wIDAQAB",
+   "manifest_version": 2,
+   "name": "YouTube on TV",
+   "permissions": [ "webview", "fullscreen", "audioCapture" ],
+   "version": "1.0"
+}
